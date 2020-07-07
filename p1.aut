@@ -1,0 +1,11 @@
+connector c1(){
+	
+	@v2 CONNECTOR c3;
+	
+	@v3 CONNECTOR c4;
+	
+}
+
+connector c2(){
+	@v3 CONNECTOR c3;
+}
